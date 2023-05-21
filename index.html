@@ -6,27 +6,26 @@
   <meta name="viewport" content="width=device-width">
   <title>Portfolio website</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
-  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>  
 </head>
 
 <body>
-  <header>
-    <h1 class="logo">Logo</h1>
-    <input type="checkbox" id="nav-toggle" class="nav-toggle">
   <nav>
+    <input type="checkbox" id="check">
+    <label for="check" class="checkbtn">
+      <i class="fas fa-bars"></i>
+    </label>
+    <label class="logo">&lt;akash/&gt;</label>
     <ul>
-      <li><a href="default.asp">Home</a></li>
-      <li><a href="news.asp">Project</a></li>
-      <li><a href="contact.asp">Tech</a></li>
-      <li><a href="about.asp">Blog</a></li>
-      <li class="contact_btn"><a href="about.asp">Contact</a></li>
+      <li><a class="active" href="#">Home</a></li>
+      <li><a href="#">Projects</a></li>
+      <li><a href="#">Tech</a></li>
+      <li><a href="#">Blog</a></li>
+      <li><a href="#" class="contact">Contact</a></li>
     </ul>
   </nav>
-  <label for="nav-toggle" class="nav-toggle-label">
-    <span></span>
-  </label>
-  </header>
-  <div class="shape-1">
+  
+  <!-- <div class="shape-1">
     <img class="planet" src="home_images/shape1/saturn.svg">
     <img class="rocket" src="home_images/shape1/rocket.svg">
     <img class="dots" src="home_images/shape1/dots.svg">
@@ -53,7 +52,7 @@
     <img src="home_images/icons/twitter.svg" alt="instagram icon">
     <img src="home_images/icons/mail.svg" alt="instagram icon">
     <img src="home_images/icons/whatsapp.svg" alt="instagram icon">
-  </div>
+  </div> -->
 
 
   <script src="script.js"></script>
