@@ -20,6 +20,7 @@ nav{
   height: 80px;
   width: 100%;
   position: fixed;
+  top:0;
 }
 label.logo {
   color: white;
@@ -201,5 +202,3 @@ nav ul li a:hover::before {
   display: flex;
   flex-direction: row;
 } */
-
-
