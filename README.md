@@ -10,7 +10,7 @@ Contributions are always welcome!
 
 - Raise an issue in this project.
 - You can also comment to assign an already raised issue.
-- Work on that project only after you are assigned to it. 
+- Work on that issue only after you are assigned to it. 
 - Don't delete the readme of the project. 
 
 ### Happy Coding😊
