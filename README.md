@@ -1,5 +1,5 @@
 # Portfolio
-I'am trying to make a portfolio website whose design can be found in in this link. Try to make things as shown in this design. 
+I'am trying to make a portfolio website whose design can be found in  this link. Try to make things as shown in this design. 
 
 https://www.figma.com/file/Rlmq8uhwQeLUuQiuTO4JWC/Untitled?type=design&node-id=0%3A1&t=2AB4XEGngFooHulb-1
 
