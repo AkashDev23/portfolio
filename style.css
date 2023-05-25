@@ -99,7 +99,7 @@ nav ul li a:hover::before {
   }
 }
 
-@media (max-width: 858px) {
+@media (max-width: 868px) {
   .checkbtn {
     display: block;
   }
@@ -187,7 +187,7 @@ right: -25px;
 top: 380px;
 
 }
-@media (max-width: 858px) {
+@media (max-width: 868px) {
 .astronaut{
   display: none;
 }
