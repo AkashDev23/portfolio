@@ -103,6 +103,9 @@ nav ul li a:hover::before {
   .checkbtn {
     display: block;
   }
+  .astronaut{
+    display: none;
+  }
   label.logo {
     padding-left: 15px;
   }
