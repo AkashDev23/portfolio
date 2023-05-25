@@ -99,10 +99,11 @@ nav ul li a:hover::before {
   }
 }
 
-@media (max-width: 858px) {
+@media (max-width: 868px) {
   .checkbtn {
     display: block;
   }
+
   label.logo {
     padding-left: 15px;
   }
@@ -177,7 +178,6 @@ right: 35.66%;
 top: 83.44%;
 bottom: 37.32%;
 }
-
 /* Right side shape */
 .astronaut{
 position: absolute;
@@ -187,7 +187,41 @@ right: -25px;
 top: 380px;
 
 }
-
+@media (max-width: 868px) {
+.astronaut{
+  display: none;
+}
+.shape1 {
+  position: relative;
+  width: 389.29px;
+  height: 237.52px;
+  left: -100px;
+  top: 154px;
+}
+.rocket {
+  position: absolute;
+  left: 5.02%;
+  right: 35.66%;
+  top: 122.44%;
+  bottom: 37.32%;
+  width: 80px;
+}
+.dot {
+position: absolute;
+width: 287.99px;
+height: 488.33px;
+left: -55px;
+top: 130.47px;
+}
+.planet {
+position: absolute;
+left: 22.59%;
+right: 6.8%;
+top: 63.36%;
+bottom: 61.63%;
+width: 120px;
+}
+}
 /* Front styles */
 .front {
   text-align: center;
