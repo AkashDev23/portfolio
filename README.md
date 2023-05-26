@@ -17,4 +17,4 @@ Contributions are always welcome!
 ## This page is live at
 https://akashdev23.github.io/portfolio/#
 
-### Happy Coding😊
+### Happy Coding☺️
